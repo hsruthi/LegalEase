@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-genai
+python-docx
+reportlab
+python-dotenv
+pydantic
